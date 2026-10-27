@@ -222,3 +222,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# code-review-graph database (built per session)
+.code-review-graph/
